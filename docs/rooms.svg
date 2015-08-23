@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="rooms.svg">
+  <defs
+     id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4261"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4257"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4253"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578"
+       is_visible="true" />
+    <linearGradient
+       id="linearGradient5472"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#4e4e4e;stop-opacity:1;"
+         offset="0"
+         id="stop5474" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3869"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3097"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3089"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3085"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15-7"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       id="filter5532"
+       x="-0.50584318"
+       width="2.0116864"
+       y="-2.6228905"
+       height="6.2457811">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="44.710643"
+         id="feGaussianBlur5534" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5552"
+       x="-0.033485601"
+       width="1.0669712"
+       y="-0.55460526"
+       height="2.1092105">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8674531"
+         id="feGaussianBlur5554" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-1-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-7-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-78"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       id="filter5754"
+       x="-0.016725964"
+       width="1.0334519"
+       y="-0.61730205"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5756" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5758"
+       x="-0.016725964"
+       width="1.0334519"
+       y="-0.61730205"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5760" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5762"
+       x="-0.016725964"
+       width="1.0334519"
+       y="-0.61730205"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5764" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-1-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-7-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-1-3-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-7-7-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-6-9"
+       is_visible="true" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5762-6"
+       x="-0.016725965"
+       width="1.0334519"
+       y="-0.61730206"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5764-2" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-1-0-7"
+       is_visible="true" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5758-7"
+       x="-0.016725965"
+       width="1.0334519"
+       y="-0.61730206"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5760-2" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-7-2-5"
+       is_visible="true" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter5754-0"
+       x="-0.016725965"
+       width="1.0334519"
+       y="-0.61730206"
+       height="2.2346041">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.2358012"
+         id="feGaussianBlur5756-9" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-78-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15-7-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15-3-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3053-15-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3097-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3089-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3085-7"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       id="filter4193"
+       x="-0.21203008"
+       width="1.4240602"
+       y="-0.14387755"
+       height="1.2877551">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1989796"
+         id="feGaussianBlur4195" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4215"
+       x="-0.41431578"
+       width="1.8286316"
+       y="-0.83982933"
+       height="2.6796587">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="46.240602"
+         id="feGaussianBlur4217" />
+    </filter>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-6-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-0-4"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-6-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-0-0"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-2"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-93"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-8"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5578-4-9-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5582-0-3-3"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="103.84296"
+     inkscape:cy="663.36155"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#00211b;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200002999999999;stroke-dasharray:none"
+       id="rect2985"
+       width="314.15744"
+       height="174.75639"
+       x="49.497475"
+       y="86.656349"
+       ry="3.3461304"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#808080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 362.13969,261.41274 27.27412,26.76904 -354.058471,0 15.345574,-26.57931 311.438777,-0.18973"
+       id="path3083"
+       inkscape:path-effect="#path-effect3085"
+       inkscape:original-d="m 362.13969,261.41274 27.27412,26.76904 -354.058471,0 15.345574,-26.57931 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#001f17;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 389.41381,288.68686 0,-202.030511 -27.27412,0 0,174.251311 27.27412,27.7792"
+       id="path3087"
+       inkscape:path-effect="#path-effect3089"
+       inkscape:original-d="m 389.41381,288.68686 0,-202.030511 -27.27412,0 0,174.251311 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#001f17;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 50.002551,261.41274 -15.379407,26.63791 0,-201.394301 14.874331,0 0.505076,174.756391"
+       id="path3095"
+       inkscape:path-effect="#path-effect3097"
+       inkscape:original-d="m 50.002551,261.41274 -15.379407,26.63791 0,-201.394301 14.874331,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <g
+       id="g3843-77"
+       transform="matrix(0.99055384,0,0,0.18653606,2.7394904,212.4754)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15"
+         id="path3051-7"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-77-8"
+       transform="matrix(0.99055384,0,0,0.18653606,3.2286427,216.40768)"
+       style="fill:#2d2d2d;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15-3"
+         id="path3051-7-1"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38-8"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8-2"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-77-9"
+       transform="matrix(0.99055384,0,0,0.18653606,3.0120012,219.58607)"
+       style="fill:#3c3c39;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15-7"
+         id="path3051-7-9"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38-0"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8-4"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <rect
+       style="fill:#fcffcb;fill-opacity:1;stroke:none;filter:url(#filter5552)"
+       id="rect5516"
+       width="133.84521"
+       height="8.0812206"
+       x="161.62442"
+       y="95.242645"
+       ry="3.3461304"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5532)"
+       id="rect5526"
+       width="212.13203"
+       height="40.911179"
+       x="112.2495"
+       y="88.344887"
+       ry="3.3461304"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <g
+       transform="translate(7.6785713,-79.821433)"
+       id="g5584"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4"
+         id="path5576"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0"
+         id="path5580"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       id="g3843"
+       transform="matrix(0.99527692,0,0,0.50611118,3.8081855,89.468377)"
+       style="fill:#000000;fill-opacity:1;filter:url(#filter5754);opacity:0.59160305"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-78"
+         id="path3051"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-3"
+       transform="matrix(0.99527692,0,0,0.50611118,4.0856855,96.485109)"
+       style="fill:#000000;fill-opacity:1;filter:url(#filter5758);opacity:0.59160305"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-7-2"
+         id="path3051-3"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-3"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-7"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-7"
+       transform="matrix(0.99527692,0,0,0.50611118,4.2029805,103.0511)"
+       style="fill:#000000;fill-opacity:1;filter:url(#filter5762);opacity:0.59160305"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-1-0"
+         id="path3051-1"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-5"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-0"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-4"
+       transform="matrix(0.99527692,0,0,0.50611118,3.790918,86.897001)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-6"
+         id="path3051-32"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-7"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-5"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-3-2"
+       transform="matrix(0.99527692,0,0,0.50611118,4.068418,93.91373)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-7-7"
+         id="path3051-3-4"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-3-4"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-7-5"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-7-3"
+       transform="matrix(0.99527692,0,0,0.50611118,4.185718,100.47973)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/room.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-1-3"
+         id="path3051-1-0"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-5-0"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-0-7"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <rect
+       style="fill:#210d00;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200002999999999;stroke-dasharray:none"
+       id="rect2985-0"
+       width="314.15744"
+       height="174.75639"
+       x="53.651646"
+       y="339.24451"
+       ry="3.3461304"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       d="m 366.29386,514.00087 27.27412,26.76904 -354.058478,0 15.34558,-26.57931 311.438778,-0.18973"
+       id="path3083-4"
+       inkscape:path-effect="#path-effect3085-7"
+       inkscape:original-d="m 366.29386,514.00087 27.27412,26.76904 -354.058478,0 15.34558,-26.57931 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#1f0000;fill-opacity:1;stroke:none"
+       d="m 393.56798,541.27499 0,-202.03051 -27.27412,0 0,174.25131 27.27412,27.7792"
+       id="path3087-2"
+       inkscape:path-effect="#path-effect3089-2"
+       inkscape:original-d="m 393.56798,541.27499 0,-202.03051 -27.27412,0 0,174.25131 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <path
+       style="fill:#1f0000;fill-opacity:1;stroke:none"
+       d="m 54.156722,514.00087 -15.37941,26.63791 0,-201.3943 14.87433,0 0.50508,174.75639"
+       id="path3095-6"
+       inkscape:path-effect="#path-effect3097-9"
+       inkscape:original-d="m 54.156722,514.00087 -15.37941,26.63791 0,-201.3943 14.87433,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27" />
+    <g
+       id="g3843-77-0"
+       transform="matrix(0.99055384,0,0,0.18653606,6.8936521,465.06353)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15-5"
+         id="path3051-7-0"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38-3"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8-6"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-77-8-9"
+       transform="matrix(0.99055384,0,0,0.18653606,7.3828121,468.99581)"
+       style="fill:#2d2d2d;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15-3-9"
+         id="path3051-7-1-3"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38-8-7"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8-2-0"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-77-9-9"
+       transform="matrix(0.99055384,0,0,0.18653606,7.1661721,472.1742)"
+       style="fill:#3c3c39;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-15-7-2"
+         id="path3051-7-9-2"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-38-0-7"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-8-4-6"
+         style="fill:#3c3c39;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       transform="translate(11.832742,172.7667)"
+       id="g5584-3"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9"
+         id="path5576-8"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3"
+         id="path5580-5"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       id="g3843-8"
+       transform="matrix(0.99527692,0,0,0.50611118,7.9623521,342.05651)"
+       style="opacity:0.59160306;fill:#000000;fill-opacity:1;filter:url(#filter5754-0)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-78-0"
+         id="path3051-9"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-9"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-4"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-3-3"
+       transform="matrix(0.99527692,0,0,0.50611118,8.2398521,349.07324)"
+       style="opacity:0.59160306;fill:#000000;fill-opacity:1;filter:url(#filter5758-7)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-7-2-5"
+         id="path3051-3-1"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-3-0"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-7-2"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-7-37"
+       transform="matrix(0.99527692,0,0,0.50611118,8.3571521,355.63923)"
+       style="opacity:0.59160306;fill:#000000;fill-opacity:1;filter:url(#filter5762-6)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-1-0-7"
+         id="path3051-1-2"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-5-09"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-0-0"
+         style="fill:#000000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-4-0"
+       transform="matrix(0.99527692,0,0,0.50611118,7.9450821,339.48513)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-6-9"
+         id="path3051-32-1"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-7-6"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-5-7"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-3-2-1"
+       transform="matrix(0.99527692,0,0,0.50611118,8.2225821,346.50186)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-7-7-1"
+         id="path3051-3-4-9"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-3-4-4"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-7-5-1"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <g
+       id="g3843-7-3-9"
+       transform="matrix(0.99527692,0,0,0.50611118,8.3398821,353.06786)"
+       style="fill:#292929;fill-opacity:1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 z"
+         inkscape:path-effect="#path-effect3053-1-3-8"
+         id="path3051-1-0-6"
+         d="m 49.285714,183.43361 313.214286,0 2.5,-4.10714 -2.64738,-4.5854 -313.424048,0 -4.223643,4.22365 4.580785,4.46889"
+         style="fill:#292929;fill-opacity:1;stroke:none" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-5-0-1"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 365.42268,179.11687 c 0,2.3536 -1.44158,4.26158 -3.21986,4.26158 -1.77828,0 -3.21986,-1.90798 -3.21986,-4.26158 0,-2.35361 1.44158,-4.26158 3.21986,-4.26158 1.77828,0 3.21986,1.90797 3.21986,4.26158 z"
+         sodipodi:ry="4.2615809"
+         sodipodi:rx="3.2198613"
+         sodipodi:cy="179.11687"
+         sodipodi:cx="362.20282"
+         id="path3823-0-0-7-7"
+         style="fill:#292929;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(1.3396885,0,0,1,-436.31662,-0.0788329)" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="opacity:0;fill:#445500;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200002999999999;stroke-dasharray:none"
+       id="path3386"
+       sodipodi:cx="200.53572"
+       sodipodi:cy="371.29074"
+       sodipodi:rx="5.8928571"
+       sodipodi:ry="7.1428571"
+       d="m 206.42858,371.29074 a 5.8928571,7.1428571 0 1 1 -11.78572,0 5.8928571,7.1428571 0 1 1 11.78572,0 z"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <rect
+       style="opacity:0;fill:#deaa87;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200002999999999;stroke-dasharray:none"
+       id="rect3403"
+       width="12.857142"
+       height="12.142858"
+       x="116.42857"
+       y="318.79074"
+       ry="3.3461304"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <rect
+       style="opacity:0;fill:#28170b;fill-opacity:1;stroke:#000000;stroke-width:0.20000000000000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200002999999999;stroke-dasharray:none"
+       id="rect3407"
+       width="42.857143"
+       height="51.42857"
+       x="86.785713"
+       y="309.86218"
+       ry="13.035701" />
+    <rect
+       style="opacity:0;fill:#28170b;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200003;stroke-dasharray:none"
+       id="rect3409"
+       width="36.785713"
+       height="32.857143"
+       x="125"
+       y="391.64789"
+       ry="13.035701"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.43511454;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200003;stroke-dasharray:none;filter:url(#filter4215)"
+       id="path4197"
+       sodipodi:cx="225.35715"
+       sodipodi:cy="397.00504"
+       sodipodi:rx="133.92857"
+       sodipodi:ry="56.071426"
+       d="m 359.28572,397.00504 a 133.92857,56.071426 0 1 1 -267.857146,0 133.92857,56.071426 0 1 1 267.857146,0 z" />
+    <rect
+       style="fill:#fff7ad;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200003;stroke-dasharray:none;filter:url(#filter4193)"
+       id="rect4179"
+       width="13.571428"
+       height="20"
+       x="212.14285"
+       y="343.07645"
+       ry="6.7857141"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       style="fill:#4b4b4b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 351.78572,457.54075 42.14285,0 0,82.67857 -33.57143,0 -8.57142,-82.67857"
+       id="path4259"
+       inkscape:path-effect="#path-effect4261"
+       inkscape:original-d="m 351.78572,457.54075 42.14285,0 0,82.67857 -33.57143,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       transform="translate(-25.357133,1.4285779)"
+       sodipodi:type="arc"
+       style="fill:#24221c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.19200003;stroke-dasharray:none"
+       id="path4219-2"
+       sodipodi:cx="376.78571"
+       sodipodi:cy="496.64789"
+       sodipodi:rx="10.357142"
+       sodipodi:ry="40.714287"
+       d="m 366.42856,496.64789 a 10.357142,40.714287 0 1 1 19.32669,20.35714 l -8.96954,-20.35714 z"
+       sodipodi:start="3.1415927"
+       sodipodi:end="6.8067841"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       style="fill:#24221c;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 360.71429,517.71932 0,23.39286 -20.35715,-27.14286 0,-16.42857 14.58751,-3.90871 5.76964,24.08728"
+       id="path4255"
+       inkscape:path-effect="#path-effect4257"
+       inkscape:original-d="m 360.71429,517.71932 0,23.39286 -20.35715,-27.14286 0,-16.42857 14.58751,-3.90871 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#554400;fill-opacity:1;stroke:none"
+       id="path4263"
+       sodipodi:cx="344.20947"
+       sodipodi:cy="501.45023"
+       sodipodi:rx="3.2829957"
+       sodipodi:ry="9.7227182"
+       d="m 347.49247,501.45023 a 3.2829957,9.7227182 0 1 1 -6.56599,0 3.2829957,9.7227182 0 1 1 6.56599,0 z"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <path
+       transform="translate(8.8099658,10.851873)"
+       sodipodi:type="arc"
+       style="fill:#554400;fill-opacity:1;stroke:none"
+       id="path4263-6"
+       sodipodi:cx="344.20947"
+       sodipodi:cy="501.45023"
+       sodipodi:rx="3.2829957"
+       sodipodi:ry="9.7227182"
+       d="m 347.49247,501.45023 a 3.2829957,9.7227182 0 1 1 -6.56599,0 3.2829957,9.7227182 0 1 1 6.56599,0 z"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63"
+       inkscape:export-ydpi="63" />
+    <g
+       transform="matrix(0.7262783,0,0,2.0401425,281.12453,-163.26273)"
+       id="g5584-3-1"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-6"
+         id="path5576-8-6"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-0"
+         id="path5580-5-1"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-2"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="matrix(0.7262783,0,0,2.0401425,290.72097,-152.65614)"
+       id="g5584-3-1-3"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-6-0"
+         id="path5576-8-6-0"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-0-4"
+         id="path5580-5-1-6"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-2-9"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="matrix(0.7262783,0,0,2.0401425,286.68036,-188.51655)"
+       id="g5584-3-1-9"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-6-9"
+         id="path5576-8-6-1"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-0-0"
+         id="path5580-5-1-3"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-2-1"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="matrix(2.2705235,2.0815568,-2.0815568,2.2705235,863.80458,-410.64898)"
+       id="g5584-3-8"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-2"
+         id="path5576-8-3"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-9"
+         id="path5580-5-8"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-5"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="translate(218.49482,171.02323)"
+       id="g5584-3-0"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-7"
+         id="path5576-8-7"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-93"
+         id="path5580-5-6"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-6"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="translate(203.8476,171.02324)"
+       id="g5584-3-9"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-5"
+         id="path5576-8-1"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-8"
+         id="path5580-5-9"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-1"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+    <g
+       transform="matrix(2.7518189,0,0,2.8065632,79.092203,-436.91929)"
+       id="g5584-3-7"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/rooms/torpedoeRoom.png"
+       inkscape:export-xdpi="63.27"
+       inkscape:export-ydpi="63.27">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         inkscape:path-effect="#path-effect5578-4-9-1"
+         id="path5576-8-4"
+         d="m 82.090382,322.97869 1.683569,5.59127 -0.425373,0.33836"
+         style="fill:none;stroke:#212121;stroke-width:1.03084755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         inkscape:path-effect="#path-effect5582-0-3-3"
+         id="path5580-5-18"
+         d="m 79.820946,326.53654 6.241071,-1.87923 0.478956,0.0423"
+         style="fill:none;stroke:#212121;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         d="m 88.928569,309.05862 c 0,5.37492 -4.357229,9.73215 -9.732143,9.73215 -5.374913,0 -9.732142,-4.35723 -9.732142,-9.73215 0,-5.37491 4.357229,-9.73214 9.732142,-9.73214 5.374914,0 9.732143,4.35723 9.732143,9.73214 z"
+         sodipodi:ry="9.7321424"
+         sodipodi:rx="9.7321424"
+         sodipodi:cy="309.05862"
+         sodipodi:cx="79.196426"
+         id="path5556-7-5-3"
+         style="fill:none;stroke:#313131;stroke-width:6.02005243;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(0.34658616,-0.10435937,0.10435937,0.34658616,23.334166,226.90449)" />
+    </g>
+  </g>
+</svg>

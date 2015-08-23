@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4688"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="objects.svg">
+  <defs
+     id="defs4690">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path10749"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Sstart"
+       style="overflow:visible">
+      <path
+         id="path10746"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path10734"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="379.85843"
+     inkscape:cy="340.55539"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1311"
+     inkscape:window-height="744"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="674.57987,236.17367"
+       id="guide12924" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4693">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="translate(8.9285446,1.0714327)"
+       sodipodi:type="arc"
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#262626;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path10202-3"
+       sodipodi:cx="639.64288"
+       sodipodi:cy="487.00504"
+       sodipodi:rx="148.92857"
+       sodipodi:ry="148.92857"
+       d="m 788.57146,487.00504 a 148.92857,148.92857 0 1 1 -297.85715,0 148.92857,148.92857 0 1 1 297.85715,0 z"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841" />
+    <g
+       id="g6786"
+       style="opacity:0.66030531"
+       transform="translate(185.24413,51.34228)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/objects/torpedo.png"
+       inkscape:export-xdpi="103.81"
+       inkscape:export-ydpi="103.81">
+      <path
+         d="m 568.25,347.98718 c 0,5.0396 -25.79959,9.125 -57.625,9.125 -31.82541,0 -57.625,-4.0854 -57.625,-9.125 0,-5.0396 25.79959,-9.125 57.625,-9.125 31.82541,0 57.625,4.0854 57.625,9.125 z"
+         sodipodi:ry="9.125"
+         sodipodi:rx="57.625"
+         sodipodi:cy="347.98718"
+         sodipodi:cx="510.625"
+         id="path6712"
+         style="fill:#aa0000;fill-opacity:1;stroke:#d89595;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.4369748;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="translate(-316.92156,133.28271)" />
+      <path
+         sodipodi:open="true"
+         sodipodi:end="4.9741884"
+         sodipodi:start="1.3071732"
+         d="m 525.64093,356.79693 c -30.72591,1.31322 -62.35704,-1.56646 -70.65011,-6.43195 -8.29307,-4.86549 9.89233,-9.87433 40.61825,-11.18755 9.80024,-0.41886 20.12532,-0.42035 29.93038,-0.004"
+         sodipodi:ry="9.125"
+         sodipodi:rx="57.625"
+         sodipodi:cy="347.98718"
+         sodipodi:cx="510.625"
+         id="path6712-2"
+         style="fill:#708baf;fill-opacity:1;stroke:#d89595;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.4369748;stroke-dasharray:none"
+         sodipodi:type="arc"
+         transform="matrix(1.9258558,0,0,0.99578303,-794.16322,134.62516)" />
+      <path
+         transform="matrix(1.4533805,0,0,1.3441562,-496.87384,13.606813)"
+         sodipodi:end="7.8539816"
+         sodipodi:start="4.712389"
+         d="m 397,339.86218 c 5.38478,0 9.75,3.52576 9.75,7.875 0,4.34925 -4.36522,7.875 -9.75,7.875 l 0,-7.875 z"
+         sodipodi:ry="7.875"
+         sodipodi:rx="9.75"
+         sodipodi:cy="347.73718"
+         sodipodi:cx="397"
+         id="path6757"
+         style="fill:#a2a2a2;fill-opacity:1;stroke:#d89595;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.4369748;stroke-dasharray:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:none"
+       id="path3435"
+       sodipodi:cx="257.14285"
+       sodipodi:cy="397.71933"
+       sodipodi:rx="25"
+       sodipodi:ry="23.214285"
+       d="m 282.14285,397.71933 a 25,23.214285 0 1 1 -50,0 25,23.214285 0 1 1 50,0 z"
+       transform="matrix(0.55357143,0,0,0.55357143,124.34949,227.01118)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/objects/projectile.png"
+       inkscape:export-xdpi="175.13879"
+       inkscape:export-ydpi="175.13879" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none"
+       id="path3437"
+       sodipodi:cx="267.41071"
+       sodipodi:cy="454.32648"
+       sodipodi:rx="14.553572"
+       sodipodi:ry="22.678572"
+       d="m 281.96428,454.32648 a 14.553572,22.678572 0 1 1 -29.10715,0 l 14.55358,0 z"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       transform="matrix(1,0,0,1.3543307,0,-160.98181)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/objects/projectile.png"
+       inkscape:export-xdpi="175.13879"
+       inkscape:export-ydpi="175.13879" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none"
+       id="path3439"
+       sodipodi:cx="271.33929"
+       sodipodi:cy="459.41574"
+       sodipodi:rx="15.982142"
+       sodipodi:ry="17.410715"
+       d="m 255.35715,459.41574 a 15.982142,17.410715 0 0 1 31.96429,0 l -15.98215,0 z"
+       sodipodi:start="3.1415927"
+       sodipodi:end="6.2831853"
+       transform="matrix(0.90502793,0,0,0.92307693,21.841083,30.250385)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/objects/projectile.png"
+       inkscape:export-xdpi="175.13879"
+       inkscape:export-ydpi="175.13879" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#997b7b;stroke-opacity:1"
+       id="path4209"
+       sodipodi:cx="269.55356"
+       sodipodi:cy="483.52289"
+       sodipodi:rx="6.875"
+       sodipodi:ry="4.7321429"
+       d="m 276.42856,483.52289 a 6.875,4.7321429 0 1 1 -13.75,0 6.875,4.7321429 0 1 1 13.75,0 z"
+       transform="translate(-1.9642857,-3.0357143)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/objects/projectile.png"
+       inkscape:export-xdpi="175.13879"
+       inkscape:export-ydpi="175.13879" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#00de03;stroke-width:11.9390583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.96952906, 5.96952906;stroke-dashoffset:119.39058128;marker-start:none;marker-mid:none"
+       id="path10202"
+       sodipodi:cx="639.64288"
+       sodipodi:cy="487.00504"
+       sodipodi:rx="148.92857"
+       sodipodi:ry="148.92857"
+       d="M 565.1786,615.98096 A 148.92857,148.92857 0 0 1 543.91344,372.91913"
+       transform="matrix(0.83758701,0,0,0.83758701,113.44521,79.810226)"
+       sodipodi:start="2.0943951"
+       sodipodi:end="4.0142573"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="584.45367"
+       y="582.10321"
+       id="text12102"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104"
+         x="584.45367"
+         y="582.10321"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">0</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12106"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion12108"><rect
+           id="rect12110"
+           width="1.4285715"
+           height="108.57143"
+           x="449.28571"
+           y="567.36218" /></flowRegion><flowPara
+         id="flowPara12112" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="639.28571"
+       y="388.07648"
+       id="text12135"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12137" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="582.49622"
+       y="405.45828"
+       id="text12102-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104-1"
+         x="582.49622"
+         y="405.45828"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="735.79608"
+       y="479.14752"
+       id="text12102-27"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104-5"
+         x="735.79608"
+         y="479.14752"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">200</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="697.41602"
+       y="580.04559"
+       id="text12102-00"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104-9"
+         x="697.41602"
+         y="580.04559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">260</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="537.83044"
+       y="488.78821"
+       id="text12102-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104-6"
+         x="537.83044"
+         y="488.78821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">50</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff8600;stroke-width:11.9390583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.96952906, 5.96952906;stroke-dashoffset:119.39058128;marker-start:none;marker-mid:none"
+       id="path10202-38"
+       sodipodi:cx="639.64288"
+       sodipodi:cy="487.00504"
+       sodipodi:rx="148.92857"
+       sodipodi:ry="148.92857"
+       d="M 543.91344,372.91913 A 148.92857,148.92857 0 0 1 714.10718,358.02911"
+       transform="matrix(0.83758701,0,0,0.83758701,115.72027,77.563432)"
+       sodipodi:start="4.0142573"
+       sodipodi:end="5.2359878"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff003b;stroke-width:11.9390583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.96952906, 5.96952906;stroke-dashoffset:119.39058128;marker-start:none;marker-mid:none"
+       id="path10202-38-4"
+       sodipodi:cx="639.64288"
+       sodipodi:cy="487.00504"
+       sodipodi:rx="148.92857"
+       sodipodi:ry="148.92857"
+       d="m 714.10718,358.02911 a 148.92857,148.92857 0 0 1 -10e-6,257.95185"
+       transform="matrix(0.83758701,0,0,0.83758701,118.51288,79.651257)"
+       sodipodi:start="5.2359878"
+       sodipodi:end="7.3303829"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Padauk;-inkscape-font-specification:Padauk"
+       x="680.57031"
+       y="403.44031"
+       id="text12102-0-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12104-1-8"
+         x="680.57031"
+         y="403.44031"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ume UI Gothic;-inkscape-font-specification:Ume UI Gothic">160</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="605.28345"
+       y="447.07877"
+       id="text12264"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12266"
+         x="605.28345"
+         y="447.07877"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic">Tiefenmesser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="621.43866"
+       y="531.42401"
+       id="text12264-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/deepGauge.png"
+       inkscape:export-xdpi="87.706841"
+       inkscape:export-ydpi="87.706841"><tspan
+         sodipodi:role="line"
+         id="tspan12266-8"
+         x="621.43866"
+         y="531.42401"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic">m Wasser</tspan></text>
+    <g
+       id="g12948"
+       transform="translate(19.79899,-72.124892)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/pointerRed.png"
+       inkscape:export-xdpi="177.59895"
+       inkscape:export-ydpi="177.59895">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12928"
+         d="m 377.59502,816.18851 7.77818,-28.28426 4.24264,13.43502 139.30003,14.84924 z"
+         style="fill:#d01414;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12928-3"
+         d="m 376.88792,815.48142 7.77818,28.28426 4.24264,-13.43502 139.30003,-14.84924 z"
+         style="fill:#d01414;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g12948-3"
+       transform="translate(20.152542,-7.4246227)"
+       inkscape:export-filename="/home/javi/non-work/dasBoot/assets/ui/pointerGrey.png"
+       inkscape:export-xdpi="177.59892"
+       inkscape:export-ydpi="177.59892"
+       style="fill:#9a9494;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12928-6"
+         d="m 377.59502,816.18851 7.77818,-28.28426 4.24264,13.43502 139.30003,14.84924 z"
+         style="fill:#9a9494;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path12928-3-1"
+         d="m 376.88792,815.48142 7.77818,28.28426 4.24264,-13.43502 139.30003,-14.84924 z"
+         style="fill:#9a9494;fill-opacity:1;stroke:none" />
+    </g>
+  </g>
+</svg>

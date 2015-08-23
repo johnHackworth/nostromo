@@ -1,0 +1,210 @@
+<html>
+  <head>
+    <style>
+        @font-face {
+            font-family: "specialElite";
+            src: url('assets/fonts/specialElite.ttf');
+        }
+        @font-face {
+            font-family: "germania";
+            src: url('assets/fonts/germania.ttf');
+        }
+        @font-face {
+            font-family: "lobster";
+            src: url('assets/fonts/lobster.ttf');
+        }
+
+        body {
+            font-family: germania;
+            background: #333333;
+            text-align: center;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+        canvas {
+            margin: auto;
+        }
+        .attribution {
+            color: #FFFFFF;
+            font-family: verdana;
+            text-align: center;
+            font-size: 10px;
+        }
+        a {
+            color: #FFFFFF;
+
+        }
+        .loading {
+            font-size: 40px;
+            color: #FFFFFF;
+            font-family: verdana;
+            position: absolute;
+            top: 200px;
+            left: calc(50% - 100px);
+            -webkit-animation-name: spin;
+            -webkit-animation-duration: 4000ms;
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-timing-function: linear;
+            -moz-animation-name: spin;
+            -moz-animation-duration: 4000ms;
+            -moz-animation-iteration-count: infinite;
+            -moz-animation-timing-function: linear;
+            -ms-animation-name: spin;
+            -ms-animation-duration: 4000ms;
+            -ms-animation-iteration-count: infinite;
+            -ms-animation-timing-function: linear;
+
+            animation-name: spin;
+            animation-duration: 4000ms;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+
+        }
+        @-moz-keyframes spin {
+            from { -moz-transform: rotate(0deg); }
+            to { -moz-transform: rotate(360deg); }
+        }
+        @-webkit-keyframes spin {
+            from { -webkit-transform: rotate(0deg); }
+            to { -webkit-transform: rotate(360deg); }
+        }
+        @keyframes spin {
+            from {transform:rotate(0deg);}
+            to {transform:rotate(360deg);}
+        }
+        .warning {
+            padding: 200px 0;
+            font-size: 40px;
+            color: #FFFFFF;
+            font-family: verdana;
+            width: 100%;
+        }
+    </style>
+    <script src="pixi.js"></script>
+  </head>
+  <body>
+
+    <div class="loading" id="loader"> LOADING </div>
+
+    <script src="engine/collections.js"></script>
+    <script src="engine/math.js"></script>
+
+
+
+
+    <script src="config/config.js"></script>
+    <script src="data/nations.js"></script>
+    <script src="lib/people/assets.js"></script>
+    <script src="lib/people/animations.js"></script>
+    <script src="lib/sectors/sector.js"></script>
+    <script src="lib/sectors/deepSea.js"></script>
+    <script src="lib/sectors/land.js"></script>
+
+    <script src="engine/eventable.js"></script>
+    <script src="engine/loggable.js"></script>
+    <script src="engine/extendable.js"></script>
+    <script src="engine/engine.js"></script>
+    <script src="engine/keyboard.js"></script>
+    <script src="engine/viewport.js"></script>
+    <script src="engine/astar.js"></script>
+    <script src="engine/stage.js"></script>
+    <script src="engine/mouseCapturer.js"></script>
+    <script src="engine/nameGenerator.js"></script>
+    <script src="engine/particleGenerator.js"></script>
+    <script src="engine/oscillator.js"></script>
+
+    <script src="engine/components/healthBar.js"></script>
+
+
+    <script src="lib/models/boat.js"></script>
+    <script src="lib/models/player.js"></script>
+    <script src="lib/models/sailor.js"></script>
+
+    <script src="lib/vehicles/ai/ai.js"></script>
+    <script src="lib/vehicles/ai/offensiveAi.js"></script>
+    <script src="lib/vehicles/ai/stanceAi.js"></script>
+    <script src="lib/vehicles/vehicle.js"></script>
+    <script src="lib/vehicles/boat.js"></script>
+    <script src="lib/vehicles/submarine.js"></script>
+    <script src="lib/vehicles/earlyUboat.js"></script>
+    <script src="lib/vehicles/safeBoat.js"></script>
+    <script src="lib/vehicles/merchant.js"></script>
+    <script src="lib/vehicles/merchant2.js"></script>
+    <script src="lib/vehicles/earlyBattleship.js"></script>
+    <script src="lib/vehicles/earlyDestroyer.js"></script>
+    <script src="lib/vehicles/1930Destroyer.js"></script>
+    <script src="lib/vehicles/components/torpedoTube.js"></script>
+    <script src="lib/vehicles/components/deckGun.js"></script>
+    <script src="lib/vehicles/components/cannon.js"></script>
+    <script src="lib/vehicles/components/deepChargeLauncher.js"></script>
+
+    <script src="lib/vehicles/rooms/room.js"></script>
+    <script src="lib/vehicles/rooms/controlRoom.js"></script>
+    <script src="lib/vehicles/rooms/commsRoom.js"></script>
+    <script src="lib/vehicles/rooms/engineRoom.js"></script>
+    <script src="lib/vehicles/rooms/sleepingQuarters.js"></script>
+    <script src="lib/vehicles/rooms/stairs.js"></script>
+    <script src="lib/vehicles/rooms/torpedoRoom.js"></script>
+    <script src="lib/vehicles/rooms/deckGun.js"></script>
+    <script src="lib/vehicles/rooms/deck.js"></script>
+    <script src="lib/vehicles/rooms/shipLayout.js"></script>
+
+    <script src="lib/world/worldMap.js"></script>
+    <script src="lib/world/world.js"></script>
+    <script src="lib/world/time.js"></script>
+    <script src="lib/world/weather.js"></script>
+    <script src="lib/world/nation.js"></script>
+    <script src="lib/world/port.js"></script>
+    <script src="lib/world/comerceWind.js"></script>
+
+    <script src="lib/people/ai/ai.js"></script>
+    <script src="lib/people/personMorale.js"></script>
+    <script src="lib/people/personDecoration.js"></script>
+    <script src="lib/people/person.js"></script>
+    <script src="lib/people/enemySailor.js"></script>
+    <script src="lib/people/attributes.js"></script>
+    <script src="lib/people/workHability.js"></script>
+    <script src="lib/people/comments.js"></script>
+    <script src="lib/people/talk.js"></script>
+
+    <script src="lib/ui/common/button.js"></script>
+    <script src="lib/ui/common/modalWindow.js"></script>
+
+    <script src="lib/ui/sectorView/hudLayout.js"></script>
+    <script src="lib/ui/sectorView/seaView.js"></script>
+    <script src="lib/ui/sectorView/seaView/skyLights.js"></script>
+    <script src="lib/ui/sectorView/seaView/hydrophoneScreen.js"></script>
+    <script src="lib/ui/sectorView/submarineView/assaultingBoat.js"></script>
+    <script src="lib/ui/sectorView/combatSimulator.js"></script>
+    <script src="lib/ui/sectorView/movementSimulator.js"></script>
+    <script src="lib/ui/sectorView/targetView.js"></script>
+    <script src="lib/ui/sectorView/selectedPerson.js"></script>
+    <script src="lib/ui/sectorView/weaponsView.js"></script>
+    <script src="lib/ui/sectorView/controlGauge.js"></script>
+    <script src="lib/ui/sectorView/deepGauge.js"></script>
+    <script src="lib/ui/sectorView/torpedoButton.js"></script>
+    <script src="lib/ui/sectorView/deckGunButton.js"></script>
+    <script src="lib/ui/sectorView/submarineView.js"></script>
+    <script src="lib/ui/sectorView/peopleView.js"></script>
+    <script src="lib/ui/sectorView/torpedo.js"></script>
+    <script src="lib/ui/sectorView/projectile.js"></script>
+    <script src="lib/ui/sectorView/deepCharge.js"></script>
+    <script src="lib/ui/sectorView/playerProjectile.js"></script>
+    <script src="lib/ui/sectorView/timerButton.js"></script>
+    <script src="lib/ui/sectorView/mapViewButton.js"></script>
+
+    <script src="lib/ui/mapView/mapLayout.js"></script>
+    <script src="lib/ui/mapView/weather.js"></script>
+    <script src="lib/ui/mapView/calendar.js"></script>
+    <script src="lib/ui/mapView/sectorTile.js"></script>
+    <script src="lib/ui/mapView/shipMarker.js"></script>
+    <script src="lib/ui/mapView/nextTurnButton.js"></script>
+    <script src="lib/ui/mapView/boatViewButton.js"></script>
+    <script src="lib/ui/mapView/portView.js"></script>
+
+    <script src="directors/submarineScreen.js"></script>
+    <script src="directors/sectorsScreen.js"></script>
+    <script src="directors/director.js"></script>
+  </body>
+</html>

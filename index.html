@@ -1,0 +1,147 @@
+<html>
+  <head>
+    <style>
+        body {
+            font-family: germania;
+            background: #000000;
+            text-align: center;
+            overflow: hidden;
+            margin: 0;
+            padding: 0;
+        }
+        canvas {
+            margin: auto;
+        }
+        .attribution {
+            color: #FFFFFF;
+            font-family: verdana;
+            text-align: center;
+            font-size: 10px;
+        }
+        a {
+            color: #FFFFFF;
+
+        }
+        .spinner {
+          width: 100px;
+          height: 100px;
+          border-radius: 1px;
+          background-color: #33F;
+
+          margin: 100px auto;
+          -webkit-animation: rotateplane 2.2s infinite ease-in-out;
+          animation: rotateplane 1.2s infinite ease-in-out;
+        }
+
+        @-webkit-keyframes rotateplane {
+          0% { -webkit-transform: perspective(120px) }
+          50% { background-color: #33F; -webkit-transform: perspective(120px) rotateY(180deg) }
+          100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+        }
+
+        @keyframes rotateplane {
+          0% {
+            transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+          } 50% {
+            transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+            -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+          } 100% {
+            transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+            -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+          }
+        }
+
+
+        .loadText {
+            color: #EEEEEE;
+            opacity: 0.5;
+            font-size: 20px;
+            font-family: helvetica, verdana, arial;
+        }
+    </style>
+    <script src="pixi.js"></script>
+  </head>
+  <body>
+
+    <div class="loading" id="loader"><div class="spinner"></div><div class="loadText"> LOADING </div></div>
+
+    <script src="engine/collections.js"></script>
+    <script src="engine/math.js"></script>
+    <script src="engine/vendors/chroma.js"></script>
+
+    <script src="config/config.js"></script>
+    <script src="data/nations.js"></script>
+    <script src="data/originalRelations.js"></script>
+    <script src="lib/people/assets.js"></script>
+    <script src="lib/people/assetsXeno.js"></script>
+    <script src="lib/people/animations.js"></script>
+    <script src="lib/people/animationsXeno.js"></script>
+
+    <script src="engine/eventable.js"></script>
+    <script src="engine/loggable.js"></script>
+    <script src="engine/extendable.js"></script>
+    <script src="engine/engine.js"></script>
+    <script src="engine/keyboard.js"></script>
+    <script src="engine/viewport.js"></script>
+    <script src="engine/astar.js"></script>
+    <script src="engine/stage.js"></script>
+    <script src="engine/mouseCapturer.js"></script>
+    <script src="engine/nameGenerator.js"></script>
+    <script src="engine/particleGenerator.js"></script>
+
+    <script src="engine/components/healthBar.js"></script>
+
+    <script src="lib/models/boat.js"></script>
+    <script src="lib/models/user.js"></script>
+    <script src="lib/models/player.js"></script>
+    <script src="lib/models/sailor.js"></script>
+    <script src="lib/models/xenomorph.js"></script>
+
+    <script src="lib/vehicles/vehicles.js"></script>
+
+    <script src="lib/vehicles/vehicle.js"></script>
+    <script src="lib/vehicles/boat.js"></script>
+    <script src="lib/vehicles/submarine.js"></script>
+    <script src="lib/vehicles/earlyUboat.js"></script>
+
+    <script src="lib/vehicles/rooms/room.js"></script>
+    <script src="lib/vehicles/rooms/controlRoom.js"></script>
+    <script src="lib/vehicles/rooms/commsRoom.js"></script>
+    <script src="lib/vehicles/rooms/engineRoom.js"></script>
+    <script src="lib/vehicles/rooms/sleepingQuarters.js"></script>
+    <script src="lib/vehicles/rooms/stairs.js"></script>
+    <script src="lib/vehicles/rooms/torpedoRoom.js"></script>
+    <script src="lib/vehicles/rooms/deckGun.js"></script>
+    <script src="lib/vehicles/rooms/deck.js"></script>
+    <script src="lib/vehicles/rooms/shipLayout.js"></script>
+
+    <script src="lib/people/ai/ai.js"></script>
+    <script src="lib/people/personMorale.js"></script>
+    <script src="lib/people/personDecoration.js"></script>
+    <script src="lib/people/person.js"></script>
+    <script src="lib/people/personFace.js"></script>
+    <script src="lib/people/enemySailor.js"></script>
+    <script src="lib/people/attributes.js"></script>
+    <script src="lib/people/workHability.js"></script>
+    <script src="lib/people/comments.js"></script>
+    <script src="lib/people/talk.js"></script>
+    <script src="lib/people/xenomorph.js"></script>
+
+    <script src="lib/ui/common/button.js"></script>
+    <script src="lib/ui/common/modalWindow.js"></script>
+
+    <script src="lib/ui/sectorView/hudLayout.js"></script>
+    <script src="lib/ui/sectorView/spaceView.js"></script>
+    <script src="lib/ui/sectorView/skyLights.js"></script>
+    <script src="lib/ui/sectorView/personView.js"></script>
+    <script src="lib/ui/sectorView/shipView.js"></script>
+    <script src="lib/ui/sectorView/peopleView.js"></script>
+
+    <script src="directors/startScreen.js"></script>
+    <script src="directors/shipScreen.js"></script>
+    <script src="directors/director.js"></script>
+
+
+  </body>
+</html>

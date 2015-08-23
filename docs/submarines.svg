@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg4766"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="submarines.svg">
+  <defs
+     id="defs4768">
+    <linearGradient
+       id="linearGradient9018"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#676767;stop-opacity:1;"
+         offset="0"
+         id="stop9020" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1"
+       id="pattern7070"
+       patternTransform="matrix(0.05643253,-3.4600997,-1.7523632,-0.02858018,0,0)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect6336"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5313"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4536"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5365"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5324"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5320"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5316"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5312"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5308"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5304"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5300"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5296"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5292"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5288"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5288-3"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5292-6"
+       is_visible="true" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1"
+       id="pattern9032-9"
+       patternTransform="matrix(10,0,0,10,900.12192,182.1868)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1-2"
+       id="pattern9032-9-5"
+       patternTransform="matrix(6.153388,0,0,6.153388,1024.4487,193.70743)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1-2"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6-7"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7-8"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9-0"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5-3"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1-2-3"
+       id="pattern9032-9-5-6"
+       patternTransform="matrix(6.153388,0,0,6.153388,317.30301,197.11702)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1-2-3"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6-7-6"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7-8-2"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9-0-9"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5-3-9"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1-2-3-6"
+       id="pattern9032-9-5-6-4"
+       patternTransform="matrix(6.153388,0,0,6.153388,692.0106,88.702019)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1-2-3-6"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6-7-6-5"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7-8-2-4"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9-0-9-3"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5-3-9-2"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1-2-3-6-8"
+       id="pattern9032-9-5-6-4-0"
+       patternTransform="matrix(6.153388,0,0,6.153388,1246.6121,-342.55192)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1-2-3-6-8"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6-7-6-5-1"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7-8-2-4-4"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9-0-9-3-6"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5-3-9-2-5"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Packedcircles-1-0"
+       id="pattern9032-9-9"
+       patternTransform="matrix(18.509948,0,0,4.2449686,1403.9,846.88603)" />
+    <pattern
+       inkscape:stockid="Packed circles"
+       id="Packedcircles-1-0"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1.73205080756"
+       width="1"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <circle
+         id="circle8015-6-1"
+         r="0.5"
+         cy="0.5"
+         cx="0"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8017-7-7"
+         r="0.5"
+         cy="0.5"
+         cx="1"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8019-9-8"
+         r="0.5"
+         cy="1.36602540378"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+      <circle
+         id="circle8021-5-5"
+         r="0.5"
+         cy="-0.366025403784"
+         cx="0.5"
+         style="fill:black;stroke:none" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-180.03844"
+     inkscape:cy="1103.9233"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="71.215754,217.68787"
+       id="guide3954" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="506.02329,429.21382"
+       id="guide4362" />
+    <sodipodi:guide
+       orientation="-0.70710678,0.70710678"
+       position="16.263456,-86.974134"
+       id="guide4364" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="246.07316,758.72558"
+       id="guide9224" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4771">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#b7b7b7;fill-opacity:1;stroke:none"
+       d="m -190.97283,336.90927 49.55834,6.23206 19.65557,-24.10332 -37.75183,-14.29686 z"
+       id="path9146-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#9a9a9a;fill-opacity:1;stroke:none"
+       d="m -152.02796,311.31428 435.14145,-116.5958 35.79167,0 36.76955,267.20954 z"
+       id="path8953"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#b7b7b7;fill-opacity:1;stroke:none"
+       d="m 893.42525,325.80472 -49.55834,6.23206 -19.65557,-24.10332 37.75183,-14.29686 z"
+       id="path9146-7-8-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#9a9a9a;fill-opacity:1;stroke:none"
+       d="m 864.20489,311.50253 -435.14145,-116.5958 -35.79167,0 -36.76955,267.20954 z"
+       id="path8953-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#b7b7b7;fill-opacity:1;stroke:none"
+       d="m 648.06336,253.50829 -29.34493,29.34493 -26.5165,-8.13173 17.00773,-29.45825 z"
+       id="path9146"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+       d="m -218.34682,321.00798 23.79364,23.52502 46.20027,10.97926 22.40661,-12.54577 z"
+       id="path9148-7-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978-5"
+       width="636.74219"
+       height="56.033585"
+       x="71.215752"
+       y="835.82336"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m 74.088733,836.76423 250.054327,-11.66811 152.59727,0 228.38334,11.42656 z"
+       id="path8980-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#676767;fill-opacity:1;stroke:#646464;stroke-opacity:1"
+       d="m -149,309.36218 330,0 109.23428,79.39806 67.8157,75.01537 0,370.8987 -389.04998,0 -122.12456,-211.52595 0,-312.78618 z"
+       id="path6102"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+       d="m 920.79924,309.90343 -23.79364,23.52502 -46.20027,10.97926 -22.40661,-12.54577 z"
+       id="path9148-7-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6-1"
+       width="565.11237"
+       height="49.730129"
+       x="107.8173"
+       y="839.35992"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#676767;fill-opacity:1;stroke:#646464;stroke-opacity:1"
+       d="m 863.46271,309.36218 -330,0 -109.23428,79.39806 -67.8157,76.51537 0,369.3987 389.04998,0 122.12456,-211.52595 0,-312.78618 z"
+       id="path6102-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;stroke:#4b4b4b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.82824427000000000"
+       d="m 107.71573,808.3934 -140.000001,0 -96.540939,-167.21382 0,-290.78618"
+       id="path8700"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424" />
+    <path
+       style="fill:none;stroke:#4b4b4b;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.82824427000000000"
+       d="m 114.9862,808.39342 -140.000001,0 -96.540939,-167.21384 0,-290.78618"
+       id="path8700-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.20320613000000001"
+       d="m 131.17517,822.80346 -140.0000013,0 -96.5409387,-167.21386 0,-290.78618"
+       id="path8700-3-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.20320613000000001"
+       d="m 135.24103,817.70374 -139.9999983,0 -96.5409317,-167.21385 0,-290.78618"
+       id="path8700-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke:none"
+       d="m 534.69313,308.6741 -139.30004,-115.25841 -42.4264,42.42641 0,230.51681 z"
+       id="path8955-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:none;stroke:#646464;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.20320613000000001"
+       d="m 824.48651,331.11327 0,98.99495 -390.32295,0 0,120.20815 -446.891482,0 0,-196.57569"
+       id="path8751"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105.70424"
+       inkscape:export-ydpi="105.70424" />
+    <path
+       style="fill:#b8b8b8;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 177.4838,308.48585 139.30004,-115.25841 42.4264,42.42641 0,230.51681 z"
+       id="path8955"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.3740458"
+       d="m 356.38182,462.63513 0,-188.09041"
+       id="path9247"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:1;fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978"
+       width="344"
+       height="132"
+       x="180.13919"
+       y="156.12614"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m 181.69132,158.34259 135.09186,-27.48693 82.44068,0 123.38411,26.91789 z"
+       id="path8980"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6"
+       width="305.30197"
+       height="117.15076"
+       x="199.91318"
+       y="164.45738"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9);fill-opacity:1;stroke:none"
+       id="rect8978-6-8"
+       width="305.30197"
+       height="117.15076"
+       x="198.53146"
+       y="161.74068"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+       d="m 657.29722,228.03059 0,27.41244 -19.42625,27.41244 -19.42624,0 z"
+       id="path9148"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978-8"
+       width="211.67654"
+       height="81.224724"
+       x="581.41534"
+       y="177.67128"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m 582.37047,179.03516 -21.98213,-8.71583 108.99292,0 122.76845,8.36567 z"
+       id="path8980-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6-3"
+       width="187.86415"
+       height="72.087402"
+       x="593.58307"
+       y="182.79781"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9-5);fill-opacity:1;stroke:none"
+       id="rect8978-6-8-5"
+       width="187.86415"
+       height="72.087402"
+       x="592.73285"
+       y="181.12611"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#212121;fill-opacity:1;stroke:none"
+       d="m 582.34198,258.38694 -0.10351,-79.39465 -21.84194,-8.61919 0,71.83922 z"
+       id="path9144"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#b7b7b7;fill-opacity:1;stroke:none"
+       d="m 59.082334,256.91788 29.34493,29.34493 26.516496,-8.13173 -17.007726,-29.45825 z"
+       id="path9146-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#c4c4c4;fill-opacity:1;stroke:none"
+       d="m 49.848474,231.44018 0,27.41244 19.42625,27.41244 19.42624,0 z"
+       id="path9148-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978-8-1"
+       width="211.67654"
+       height="81.224724"
+       x="-125.73037"
+       y="181.08087"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m 124.77522,182.44475 21.98213,-8.71583 -108.992916,0 -122.76845,8.36567 z"
+       id="path8980-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6-3-5"
+       width="187.86415"
+       height="72.087402"
+       x="-113.56264"
+       y="186.2074"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9-5-6);fill-opacity:1;stroke:none"
+       id="rect8978-6-8-5-0"
+       width="187.86415"
+       height="72.087402"
+       x="-114.41286"
+       y="184.53571"
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#212121;fill-opacity:1;stroke:none"
+       d="m 124.80371,261.79653 0.10351,-79.39465 21.84194,-8.61919 0,71.83922 z"
+       id="path9144-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 3;stroke-dashoffset:0;opacity:0.59160305"
+       d="m 256,354.36218 34,34 16,-61 -14,-14 z"
+       id="path9204"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.59160306;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 219.26839,322.28411 34,30.11091 36,-41.11091 -14,-14 z"
+       id="path9204-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.59160306;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 438.6342,370.90122 -34,34 -16,-61 14,-14 z"
+       id="path9204-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.59160306;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="m 475.36581,338.82315 -34,30.11091 -36,-41.11091 14,-14 z"
+       id="path9204-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978-8-1-0"
+       width="211.67654"
+       height="81.224724"
+       x="248.9772"
+       y="72.665894"
+       transform="matrix(-0.79902713,0.60129497,0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m -155.18903,209.43485 12.32354,-20.18193 -87.0883,65.53689 -93.06508,80.50445 z"
+       id="path8980-5-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6-3-5-5"
+       width="187.86415"
+       height="72.087402"
+       x="261.14493"
+       y="77.792419"
+       transform="matrix(-0.79902713,0.60129497,0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9-5-6-4);fill-opacity:1;stroke:none"
+       id="rect8978-6-8-5-0-0"
+       width="187.86415"
+       height="72.087402"
+       x="260.29471"
+       y="76.120728"
+       transform="matrix(-0.79902713,0.60129497,0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#212121;fill-opacity:1;stroke:none"
+       d="m -107.45244,272.82194 -47.65689,-63.50071 12.26962,-20.02042 43.19657,57.40149 z"
+       id="path9144-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="fill:#313131;fill-opacity:1;stroke:none"
+       id="rect8978-8-1-0-4"
+       width="211.67654"
+       height="81.224724"
+       x="803.57861"
+       y="-358.58804"
+       transform="matrix(0.79902713,0.60129497,-0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#828282;fill-opacity:1;stroke:none"
+       d="m 857.64145,198.3303 -12.32354,-20.18193 87.08831,65.53689 93.06508,80.50445 z"
+       id="path8980-5-9-8-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.82824426;fill:#676767;fill-opacity:1;stroke:none"
+       id="rect8978-6-3-5-5-7"
+       width="187.86415"
+       height="72.087402"
+       x="815.74634"
+       y="-353.46152"
+       transform="matrix(0.79902713,0.60129497,-0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9-5-6-4-0);fill-opacity:1;stroke:none"
+       id="rect8978-6-8-5-0-0-3"
+       width="187.86415"
+       height="72.087402"
+       x="814.89612"
+       y="-355.13321"
+       transform="matrix(0.79902713,0.60129497,-0.60129497,0.79902713,0,0)"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="fill:#212121;fill-opacity:1;stroke:none"
+       d="m 809.90486,261.71739 47.65689,-63.50071 -12.26962,-20.02042 -43.19657,57.40149 z"
+       id="path9144-6-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <rect
+       style="opacity:0.16793895;fill:url(#pattern9032-9-9);fill-opacity:1;stroke:none"
+       id="rect8978-6-8-0"
+       width="565.11237"
+       height="49.730129"
+       x="105.25975"
+       y="838.20667"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.10687022;fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0"
+       d="m -32.509145,778.52252 11.071771,19.17687 13.6769664,0 0,-45.69338 -23.6880774,0 0,28.63783"
+       id="path9457"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.10687022;fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0"
+       d="m -71.624369,713.532 11.071771,19.17687 13.676966,0 0,-45.69338 -23.688077,0 0,28.63783"
+       id="path9457-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+    <path
+       style="opacity:0.10687022;fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.8, 0.4;stroke-dashoffset:0"
+       d="m -34.294679,734.20654 11.071771,0.17687 13.6769662,0 0,-45.69338 -23.6880772,0 0,45.45033"
+       id="path9457-0-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/javi/non-work/alien/assets/vehicles/sub1.png"
+       inkscape:export-xdpi="105"
+       inkscape:export-ydpi="105" />
+  </g>
+</svg>
