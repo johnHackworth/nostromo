@@ -6,12 +6,9 @@ window.boot.directors.main = function() {
 };
 
 window.boot.directors.main.prototype = {
-
+    nPeople: 12,
     init: function(stage) {
         window.boot.width = boot.config.width;
-        // if (window.boot.width < 1050) {
-        //   window.boot.width = 1050;
-        // }
 
         document.getElementById('loader').remove();
 
@@ -27,7 +24,7 @@ window.boot.directors.main.prototype = {
         this.initializePersons();
     },
     initializePersons: function() {
-        for (var i = 0; i < 8; i++) {
+        for (var i = 0; i < this.nPeople; i++) {
             var person = new window.boot.dataModels.Person({});
 
             this.world.player.addPerson(person);
