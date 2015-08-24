@@ -16,10 +16,6 @@ window.boot.stages.bootStage.prototype = {
                 fps: null,
                 width: window.boot.config.width,
                 height: window.boot.config.height,
-                assets: [
-                    'assets/vehicles/warship1.png',
-                    'assets/vehicles/sub1.png'
-                ],
                 init: function(stage) {
                     var self = this;
 
