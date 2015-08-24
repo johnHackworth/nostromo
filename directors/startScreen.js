@@ -8,6 +8,10 @@ window.boot.stages.startStage = function(options) {
 
 
 window.boot.stages.startStage.prototype = {
+    assets: [
+        'assets/vehicles/ship.png',
+        'assets/sounds/bso.ogg'
+    ],
     init: function(options) {
         window.boot.currentStage = new pixEngine.Stage({
             fps: null,
